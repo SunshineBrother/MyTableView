@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>MVVM</string>
+		<key>Class</key>
+		<string>ManyCellController</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>IGListKit</string>
+		<key>Class</key>
+		<string>FirstListController</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>ListBindingSectionController</string>
+		<key>Class</key>
+		<string>SecondListController</string>
+	</dict>
+</array>
+</plist>

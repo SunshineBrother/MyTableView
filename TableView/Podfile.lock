@@ -1,0 +1,28 @@
+PODS:
+  - IGListKit (3.4.0):
+    - IGListKit/Default (= 3.4.0)
+  - IGListKit/Default (3.4.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.4.0)
+  - Kingfisher (4.9.0)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - IGListKit (~> 3.0)
+  - Kingfisher (~> 4.9.0)
+  - SwiftyJSON (~> 4.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IGListKit
+    - Kingfisher
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  IGListKit: 7a5d788e9fb746bcd402baa8e8b24bc3bd2a5a07
+  Kingfisher: 64539b51826b778206daa6ed815d12653caa69dd
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 4268b6d1494d00329910242c337db0eded60a442
+
+COCOAPODS: 1.6.0.beta.2
