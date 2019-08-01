@@ -1,6 +1,8 @@
 # MyTableView
 简单的方法构建复杂的TableView
 
+动手实现了一下网上大神们写的关于简单的方法构建复杂的TableView的各种奇思淫巧
+
 
 ## 文章系列
 
@@ -13,3 +15,4 @@
 [比 UICollectionView更好用的IGListKit教程](https://blog.csdn.net/kmyhy/article/details/54846390)
 
 
+[但江的思考-IGListKit](http://blog.danthought.com/programming/2018/06/22/iglistkit/)
